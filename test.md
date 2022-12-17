@@ -69,4 +69,5 @@ git log -i --grep {{искомая_строка}}
 
 Командой __*git branch new_branch_name*__ мы создаем новую ветку.
 
+Командой __*git branch -d branch_name_to_delete*__  удаляем ветку
 
