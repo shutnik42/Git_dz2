@@ -33,3 +33,25 @@
 Например: [картинка](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmarklodato.github.io%2Fvisual-git-guide%2Fdiff.svg.png&imgrefurl=https%3A%2F%2Fmarklodato.github.io%2Fvisual-git-guide%2Findex-ru.html%3Fno-svg&tbnid=6q7C97cnzJ9S4M&vet=12ahUKEwizuNu8uoH8AhWol4sKHb5YA94QMygHegUIARDCAQ..i&docid=UAmqtQtPgrtySM&w=831&h=485&q=%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%20git%20diff&ved=2ahUKEwizuNu8uoH8AhWol4sKHb5YA94QMygHegUIARDCAQ)
 
 *  Команда __*git log*__
+
+__*git log*__ перечисляет коммиты, сделанные в репозитории в обратном к хронологическому порядке — последние коммиты находятся вверху.
+
+    Показать последовательность коммитов в обратном хронологическом порядке, начиная с текущего:
+
+git log
+
+    Показать историю конкретного файла или каталога, включая разницу:
+
+git log -p {{путь}}
+
+    Показать только первую строку каждого сообщения коммита:
+
+git log --oneline
+
+    Показать все коммиты, теги и ветки репозитория в формате диаграммы:
+
+git log --oneline --decorate --all --graph
+
+    Показать только коммиты, содержащие указанную строку (без учёта регистра):
+
+git log -i --grep {{искомая_строка}}
