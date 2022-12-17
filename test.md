@@ -57,3 +57,5 @@ git log --oneline --decorate --all --graph
 git log -i --grep {{искомая_строка}}
 
 * Команда __*git checkout*__
+
+Команда __*git checkout*__ позволяет перемещаться между ветками и коммитами
