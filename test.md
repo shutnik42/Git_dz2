@@ -66,3 +66,5 @@ git log -i --grep {{искомая_строка}}
 Первый умный был детинаБ
 Средний был и так и сякБ
 младший вовсе был дурак.
+
+![Конек-Горбунок](https://www.google.com/imgres?imgurl=https%3A%2F%2Faif-s3.aif.ru%2Fimages%2F015%2F717%2F274e7f82686e6812b95a338745a45e1e.jpg&imgrefurl=https%3A%2F%2Fnsk.aif.ru%2Fculture%2Fkonyok-gorbunok_rodom_iz_sibiri_kak_rozhdalis_znamenitye_skazki&tbnid=4QMOZ4IwPP9QqM&vet=12ahUKEwiy6ZyTyoH8AhUFtYsKHYKvBfcQMygEegUIARC3AQ..i&docid=wsq_PCITx8qZLM&w=640&h=425&q=%D0%BA%D0%BE%D0%BD%D0%B5%D0%BA%20%D0%B3%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%BA&ved=2ahUKEwiy6ZyTyoH8AhUFtYsKHYKvBfcQMygEegUIARC3AQ)
